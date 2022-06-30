@@ -1111,6 +1111,8 @@
       (net 23 "/9V") (pinfunction "1") (pintype "passive") (tstamp 1e634b61-f896-4a23-954f-bef894fb1012))
   )
 
+  (gr_rect (start 97.45 85.2) (end 126.55 108.9) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 3cae8c04-69d8-4321-9cc5-51da5dd83391))
+
   (segment (start 106.55 104.45) (end 106.6 104.4) (width 0.25) (layer "F.Cu") (net 1) (tstamp 0142e3c1-0898-49a3-9959-41a6d03b0420))
   (segment (start 106.6 103.55) (end 106.6 104.4) (width 0.25) (layer "F.Cu") (net 1) (tstamp 14ce36d8-8189-427a-8711-2ddf7a54e666))
   (segment (start 102.6 103.05) (end 104 104.45) (width 0.25) (layer "F.Cu") (net 1) (tstamp 432c023e-f82d-4031-9732-19ec166985fe))
